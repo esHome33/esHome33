@@ -1,4 +1,4 @@
-🙆, I’m Etienne (@esHome33)
+👋🏻, I’m Etienne (@esHome33)
 
 - I’m interested in algorithms in general, particularly in data structures or math computing.
 - I’m currently learning and practising Android and DAWG (directed acyclic word graphs)
